@@ -1,0 +1,20 @@
+1;The Alchemist;Paulo Coelho;13
+2;Harry Potter ;J.K. Rowling;15
+3;The God of Small Things;Arundhati Roy;20
+4;The White Tiger;Aravind Adiga;25
+5;The Immortals of Meluha;Amish Tripathi;30
+6;Shiva Trilogy;Amish Tripathi;35
+0;The Mahabharata;Vyasa;0
+8;The Ramayana;Valmiki;46
+9;A Suitable Boy;Vikram Seth;4
+10;The Guide;R.K. Narayan;55
+0;Midnight's Children;Salman Rushdie;0
+12;Train to Pakistan;Khushwant Singh;65
+0;A Passage to India;E.M. Forster;0
+0;The Namesake;Jhumpa Lahiri;0
+15;The Secret Garden;Frances Hodgson Burnett;81
+16;The Sherlock Holmes;Arthur Conan Doyle;0
+17;Wings of Fire;A.P.J. Abdul Kalam;2
+0;The Great Indian Novel;Shashi Tharoor;0
+19;The Discovery of India;Jawaharlal Nehru;100
+20;The Jungle Book;Rudyard Kipling;0
